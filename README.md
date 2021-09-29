@@ -3,6 +3,7 @@
 This repository contains basic Machine Learning algorithms implementation in both Python and R. The algorithms are as follows:
 
 ### Supervised Algorithms
+***
 
 1. [Decision Tree Classification](Decision%20Tree%20Classification)
 2. [Decision Tree Regression](Decision%20Tree%20Regression)
@@ -19,14 +20,16 @@ This repository contains basic Machine Learning algorithms implementation in bot
 13. [Support Vector Regression](Support%20Vector%20Regression%20(SVR))
 
 ### Unsupervised Algorithms
+***
 
 1. [K-Means Clustering](K-Means%20Clustering)
 2. [Hierarchical Clustering](Hierarchical%20Clustering)
 
 ### Execution
-
-
+***
+Python and R scripts are provided for every algorithm.
 #### Python 
+***
 
 To run the python script run the following command.
 ```bash
@@ -38,9 +41,11 @@ python3 decision_tree.py
 ```
 
 #### R
+***
 
 Load the R script in R studio and simply run the file.
 
 ### References
+***
 
 1. The code and the datsets belong to the [Machine Learning Course](https://www.udemy.com/course/machinelearning/) at Udemy.
